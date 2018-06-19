@@ -17,7 +17,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Server
-url:              https://startbootstrap.com
+url:              https://youtube.com
 enforce_ssl:      startbootstrap.com
 encoding:         UTF-8
 host:             localhost
